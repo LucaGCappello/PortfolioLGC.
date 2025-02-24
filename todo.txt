@@ -1,0 +1,11 @@
+1- Navbar   //// Color correction and routes correction
+
+2- BIO COMPONENT /// Missing dowload CV BUTTON
+
+3 - TechStack component (props > Icon, Name, Link)
+
+4- Project component (props > Img, Name, Description)
+
+5- Education component (props > ???)
+
+6- Contact section (?   Mail, github, linkedin)
