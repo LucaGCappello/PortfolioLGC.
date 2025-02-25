@@ -21,7 +21,7 @@ const Intro = () => {
         <p className="text-gray-600 text-sm">Lisbon, Portugal.</p>
 
         <p className="text-gray-300 text-sm text-left mt-4">
-          I'm a 25-year-old Full-Stack Web Developer, continuously refining my skills for over a year.
+          I'm a 24-year-old Full-Stack Web Developer, continuously refining my skills for over a year.
           I specialize in building professional websites and developing innovative solutions to enhance user experiences.
         </p>
       </div>
